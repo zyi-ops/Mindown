@@ -1,8 +1,8 @@
 # 🧠 Mindown - 思维导图与笔记结合的知识库工具
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/MindNote)  
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/yourusername/MindNote/blob/main/LICENSE)  
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-orange)](https://github.com/yourusername/MindNote)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/zyi-ops/Mindown)  
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zyi-ops/Mindown/blob/main/LICENSE)  
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-orange)](https://github.com/zyi-ops/Mindown)
 
 ---
 
