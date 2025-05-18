@@ -99,9 +99,7 @@ This project uses the MIT License. Details available at [LICENSE](https://github
 
 ### 🎯 Inspiration Sources  
 - [Freeplane](https://www.freeplane.org/)  
-- [Obsidian](https://obsidian.md/)  
-- [MindForger](https://github.com/dvorka/mindforger)  
-
+- [Obsidian](https://obsidian.md/) 
 ---
 
 **Star ⭐ if you like this project!**  
