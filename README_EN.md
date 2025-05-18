@@ -32,9 +32,6 @@
 - **Data Storage**:  
   - Mind map structure: JSON files (lightweight and extensible).  
   - Note content: Local Markdown files.  
-- **Third-party Libraries**:  
-  - [QMarkdown](https://github.com/bananaacid/qmarkdown) (Markdown rendering support).  
-
 ---
 
 ## 📦 Installation Guide  
