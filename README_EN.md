@@ -32,9 +32,6 @@
 - **Data Storage**:  
   - Mind map structure: JSON files (lightweight and extensible).  
   - Note content: Local Markdown files.  
-- **Third-party Libraries**:  
-  - [QMarkdown](https://github.com/bananaacid/qmarkdown) (Markdown rendering support).  
-
 ---
 
 ## 📦 Installation Guide  
@@ -99,9 +96,7 @@ This project uses the MIT License. Details available at [LICENSE](https://github
 
 ### 🎯 Inspiration Sources  
 - [Freeplane](https://www.freeplane.org/)  
-- [Obsidian](https://obsidian.md/)  
-- [MindForger](https://github.com/dvorka/mindforger)  
-
+- [Obsidian](https://obsidian.md/) 
 ---
 
 **Star ⭐ if you like this project!**  

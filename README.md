@@ -1,8 +1,6 @@
 # 🧠 Mindown - 思维导图与笔记结合的知识库工具
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/zyi-ops/Mindown)   
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zyi-ops/Mindown/blob/main/LICENSE)  
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-orange)](https://github.com/zyi-ops/Mindown)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/zyi-ops/Mindown)   [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zyi-ops/Mindown/blob/main/LICENSE)  [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-orange)](https://github.com/zyi-ops/Mindown)
 
 ### 🌍 Language Versions  
 - [中文文档](README.md)  
@@ -47,10 +45,7 @@
 - **语言与框架**：C++ + Qt 6。  
 - **数据存储**：  
   - 思维导图结构：JSON 文件（轻量级且易于扩展）。  
-  - 笔记内容：本地 Markdown。  
-- **第三方库**：  
-  - [QMarkdown](https://github.com/bananaacid/qmarkdown)（Markdown 渲染支持）。  
-
+  - 笔记内容：本地 Markdown。 
 ---
 
 ## 📦 安装指南  
@@ -104,8 +99,6 @@
 ### 🎯 灵感来源  
 - [Freeplane](https://www.freeplane.org/)  
 - [Obsidian](https://obsidian.md/)  
-- [MindForger](https://github.com/dvorka/mindforger)  
-
 ---
 
 **Star ⭐ 如果你喜欢这个项目！**  
