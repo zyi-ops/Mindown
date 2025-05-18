@@ -106,8 +106,6 @@
 ### 🎯 灵感来源  
 - [Freeplane](https://www.freeplane.org/)  
 - [Obsidian](https://obsidian.md/)  
-- [MindForger](https://github.com/dvorka/mindforger)  
-
 ---
 
 **Star ⭐ 如果你喜欢这个项目！**  
