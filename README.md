@@ -1,6 +1,12 @@
 # 🧠 Mindown - 思维导图与笔记结合的知识库工具
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/zyi-ops/Mindown)   [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zyi-ops/Mindown/blob/main/LICENSE)  [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-orange)](https://github.com/zyi-ops/Mindown)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/zyi-ops/Mindown)   
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zyi-ops/Mindown/blob/main/LICENSE)  
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-orange)](https://github.com/zyi-ops/Mindown)
+
+### 🌍 Language Versions  
+- [中文文档](README.md)  
+- [English Document](README_EN.md)
 
 ---
 
@@ -17,13 +23,13 @@
 ---
 
 ## 🚀 核心功能  
-| 功能 | 描述 |
-|------|------|
-| **思维导图编辑** | 创建、删除、拖拽节点，支持父子层级关系和自由布局。 |
-| **笔记绑定** | 每个节点关联一个笔记文件，支持 Markdown 和富文本编辑。 |
-| **数据持久化** | 保存/加载思维导图结构（JSON 格式）和笔记内容（本地文件）。 |
-| **搜索导航** | 按关键字快速定位节点或笔记内容。 |
-| **导出功能** | 导出思维导图为 PNG/SVG 图片或 PDF 文档（待实现）。 |
+| 功能             | 描述                                                       |
+| ---------------- | ---------------------------------------------------------- |
+| **思维导图编辑** | 创建、删除、拖拽节点，支持父子层级关系和自由布局。         |
+| **笔记绑定**     | 每个节点关联一个笔记文件，支持 Markdown 和富文本编辑。     |
+| **数据持久化**   | 保存/加载思维导图结构（JSON 格式）和笔记内容（本地文件）。 |
+| **搜索导航**     | 按关键字快速定位节点或笔记内容。                           |
+| **导出功能**     | 导出思维导图为 PNG/SVG 图片或 PDF 文档（待实现）。         |
 
 ---
 
@@ -75,14 +81,14 @@
 ---
 
 ## 📅 TODO 列表  
-| 优先级 | 功能 | 状态 |
-|--------|------|------|
-| 🔥 高 | 节点拖拽与父子关系实现 | 🟡 开发中 |
-| 🔥 高 | 笔记绑定与 Markdown 编辑器 | 🟢 未开始 |
-| 🟡 中 | JSON 数据持久化与加载 | 🟢 未开始 |
-| 🟡 中 | 导出思维导图为图片/PDF | 🟢 未开始 |
-| 🟢 低 | 云同步功能（集成 OneDrive） | 🟢 未开始 |
-| 🟢 低 | 插件系统（支持数学公式、图表插入） | 🟢 未开始 |
+| 优先级 | 功能                               | 状态     |
+| ------ | ---------------------------------- | -------- |
+| 🔥 高   | 节点拖拽与父子关系实现             | 🟡 开发中 |
+| 🔥 高   | 笔记绑定与 Markdown 编辑器         | 🟢 未开始 |
+| 🟡 中   | JSON 数据持久化与加载              | 🟢 未开始 |
+| 🟡 中   | 导出思维导图为图片/PDF             | 🟢 未开始 |
+| 🟢 低   | 云同步功能（集成 OneDrive）        | 🟢 未开始 |
+| 🟢 低   | 插件系统（支持数学公式、图表插入） | 🟢 未开始 |
 
 ---
 
