@@ -37,10 +37,7 @@
 - **语言与框架**：C++ + Qt 6。  
 - **数据存储**：  
   - 思维导图结构：JSON 文件（轻量级且易于扩展）。  
-  - 笔记内容：本地 Markdown。  
-- **第三方库**：  
-  - [QMarkdown](https://github.com/bananaacid/qmarkdown)（Markdown 渲染支持）。  
-
+  - 笔记内容：本地 Markdown。 
 ---
 
 ## 📦 安装指南  
